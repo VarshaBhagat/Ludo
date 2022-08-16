@@ -1,0 +1,6 @@
+module Pods_Ludo_LudoTests {
+  umbrella header "Pods-Ludo-LudoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
